@@ -1,0 +1,13 @@
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.vbprojAssemblyReference.cache
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.MantenimientoVehiculo.resources
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.Resources.resources
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.vbproj.GenerateResource.cache
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.vbproj.CoreCompileInputs.cache
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.exe.config
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.exe
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.pdb
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.xml
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.exe
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.xml
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.pdb
+C:\Users\cques\OneDrive\Documentos\U\Progra IV\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.Busqueda.resources
